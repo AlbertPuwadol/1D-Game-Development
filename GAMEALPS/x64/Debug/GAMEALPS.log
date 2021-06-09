@@ -1,0 +1,45 @@
+﻿  Animation.cpp
+c:\users\puwadol limwanichsin\desktop\61010844\source code\gamealps\animation.cpp(12): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\puwadol limwanichsin\desktop\61010844\source code\gamealps\animation.cpp(13): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Collision.cpp
+c:\users\puwadol limwanichsin\desktop\61010844\source code\gamealps\collision.cpp(66): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\puwadol limwanichsin\desktop\61010844\source code\gamealps\collision.cpp(67): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\puwadol limwanichsin\desktop\61010844\source code\gamealps\collision.cpp(69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\puwadol limwanichsin\desktop\61010844\source code\gamealps\collision.cpp(70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\puwadol limwanichsin\desktop\61010844\source code\gamealps\collision.cpp(132): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\puwadol limwanichsin\desktop\61010844\source code\gamealps\collision.cpp(133): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\puwadol limwanichsin\desktop\61010844\source code\gamealps\collision.cpp(134): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  main.cpp
+c:\users\puwadol limwanichsin\desktop\61010844\source code\gamealps\main.cpp(29): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\puwadol limwanichsin\desktop\61010844\source code\gamealps\main.cpp(1910): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\puwadol limwanichsin\desktop\61010844\source code\gamealps\main.cpp(1916): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  GAMEALPS.vcxproj -> C:\Users\Puwadol Limwanichsin\Desktop\61010844\Source Code\x64\Debug\GAMEALPS.exe
